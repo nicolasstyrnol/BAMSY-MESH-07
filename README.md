@@ -8,4 +8,4 @@ Bündelung von Beratungsinhalten, Suchmaschine & Bewertungsportal in einer umfas
 You can find our whole Documentation at https://github.com/nicolasstyrnol/BAMSY-MESH-07/wiki
 
 # Name des Teams und der einzelnen Teammitglieder
-Hatem Abd El Lateef, Jamie Speidel, Johannes Ginsel, Leonie Raschke und Nicolas Styrnol
+Team "BAMSY": Hatem Abd El Lateef, Jamie Speidel, Johannes Ginsel, Leonie Raschke und Nicolas Styrnol
