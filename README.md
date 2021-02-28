@@ -1,5 +1,5 @@
 # BAMSY
-# Tinder dich gesund!
+## Tinder dich gesund!
 # Kurzbeschreibung der Solution und Präsentation mit den Schlüsselbotschaften
 
 # Documentation
